@@ -1,0 +1,68 @@
+[33mcommit 1f552728e33a6b528d89faf05332542ba5756b94[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 07:54:10 2021 +0800
+
+    deteleting level 1 and all children
+
+[33mcommit 2a78785538cbb8aee1abcd89349f97750ee3ffd8[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 07:36:55 2021 +0800
+
+    Deleting new fiel
+
+[33mcommit 145d732f8e6d9516494ac8ff911956d2c52383f6[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 07:01:41 2021 +0800
+
+    Renaming level1 file
+
+[33mcommit 3d5a1ac5570ac7a8c364da55b9968f9236b42349[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 06:18:34 2021 +0800
+
+    More ipsum for hipster
+
+[33mcommit 1ff2e6f853fbc5e50fe1e6466f5a31b4d38fc736[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 06:14:58 2021 +0800
+
+    Adding new file
+
+[33mcommit 54a8b3714586ff40a4873e1ccbc490da8eb3b0ae[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Mon Apr 12 06:02:37 2021 +0800
+
+    Adding more ipsum text
+
+[33mcommit a422b5449169f4e37004c3775037e716860114cf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kathina Angela Gutierrez <angelagutierrez925@gmail.com>
+Date:   Sat Apr 10 23:00:25 2021 +0800
+
+    Message
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
